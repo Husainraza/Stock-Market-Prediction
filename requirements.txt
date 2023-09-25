@@ -1,0 +1,8 @@
+numpy
+pandas
+pandas_datareader
+matpltlib
+scikit-learn
+tensorflow
+keras
+streamli
