@@ -1,8 +1,9 @@
 numpy
 pandas
 pandas_datareader
-matpltlib
+yfinance
+matplotlib
 scikit-learn
 tensorflow
 keras
-streamli
+streamlit
